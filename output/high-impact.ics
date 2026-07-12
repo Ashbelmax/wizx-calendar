@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WizX Calendar//EN
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:FOMCInterestRateDecision-20260715T180000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260715T180000Z
+DTEND:20260715T183000Z
+SUMMARY:FOMC Interest Rate Decision
+DESCRIPTION:Expected: 4.50%\nPrevious: 4.50%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:FOMCStatement-20260716T180000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260716T180000Z
+DTEND:20260716T183000Z
+SUMMARY:FOMC Statement
+DESCRIPTION:Expected: 4.50%\nPrevious: 4.50%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:FOMCPressConference-20260716T200000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260716T200000Z
+DTEND:20260716T203000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Expected: N/A\nPrevious: N/A\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:FOMCMeetingMinutes-20260728T180000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260728T180000Z
+DTEND:20260728T183000Z
+SUMMARY:FOMC Meeting Minutes
+DESCRIPTION:Expected: N/A\nPrevious: N/A\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Non-FarmPayrolls-20260717T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260717T123000Z
+DTEND:20260717T130000Z
+SUMMARY:Non-Farm Payrolls
+DESCRIPTION:Expected: 250K\nPrevious: 248K\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ConsumerPriceIndex-20260720T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260720T123000Z
+DTEND:20260720T130000Z
+SUMMARY:Consumer Price Index
+DESCRIPTION:Expected: 0.3%\nPrevious: 0.2%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CoreCPI-20260720T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260720T123000Z
+DTEND:20260720T130000Z
+SUMMARY:Core CPI
+DESCRIPTION:Expected: 0.3%\nPrevious: 0.2%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ProducerPriceIndex-20260722T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260722T123000Z
+DTEND:20260722T130000Z
+SUMMARY:Producer Price Index
+DESCRIPTION:Expected: 0.2%\nPrevious: 0.1%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CorePCEPriceIndex-20260723T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260723T123000Z
+DTEND:20260723T130000Z
+SUMMARY:Core PCE Price Index
+DESCRIPTION:Expected: 0.2%\nPrevious: 0.1%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:GDP-20260724T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260724T123000Z
+DTEND:20260724T130000Z
+SUMMARY:GDP
+DESCRIPTION:Expected: 1.8%\nPrevious: 1.6%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:RetailSales-20260725T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260725T123000Z
+DTEND:20260725T130000Z
+SUMMARY:Retail Sales
+DESCRIPTION:Expected: 0.4%\nPrevious: 0.1%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:UnemploymentRate-20260719T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260719T123000Z
+DTEND:20260719T130000Z
+SUMMARY:Unemployment Rate
+DESCRIPTION:Expected: 4.2%\nPrevious: 4.1%\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:InitialJoblessClaims-20260718T123000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260718T123000Z
+DTEND:20260718T130000Z
+SUMMARY:Initial Jobless Claims
+DESCRIPTION:Expected: 220K\nPrevious: 221K\nActual: N/A\nCurrency: USD\nImpact: High\nCountry: United States\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ECBInterestRateDecision-20260721T121500Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260721T121500Z
+DTEND:20260721T124500Z
+SUMMARY:ECB Interest Rate Decision
+DESCRIPTION:Expected: 3.50%\nPrevious: 3.50%\nActual: N/A\nCurrency: EUR\nImpact: High\nCountry: Eurozone\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:BoEInterestRateDecision-20260722T120000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260722T120000Z
+DTEND:20260722T123000Z
+SUMMARY:BoE Interest Rate Decision
+DESCRIPTION:Expected: 4.50%\nPrevious: 4.50%\nActual: N/A\nCurrency: GBP\nImpact: High\nCountry: United Kingdom\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:BoJInterestRateDecision-20260723T030000Z
+DTSTAMP:20260712T204005Z
+DTSTART:20260723T030000Z
+DTEND:20260723T033000Z
+SUMMARY:BoJ Interest Rate Decision
+DESCRIPTION:Expected: 0.25%\nPrevious: 0.25%\nActual: N/A\nCurrency: JPY\nImpact: High\nCountry: Japan\n\nMore Information:\nhttps://www.alphavantage.co/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

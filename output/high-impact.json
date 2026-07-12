@@ -1,0 +1,178 @@
+[
+  {
+    "title": "FOMC Interest Rate Decision",
+    "currency": "USD",
+    "expected": "4.50%",
+    "previous": "4.50%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-15T18:00:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "FOMC Statement",
+    "currency": "USD",
+    "expected": "4.50%",
+    "previous": "4.50%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-16T18:00:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "FOMC Press Conference",
+    "currency": "USD",
+    "expected": "N/A",
+    "previous": "N/A",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-16T20:00:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "FOMC Meeting Minutes",
+    "currency": "USD",
+    "expected": "N/A",
+    "previous": "N/A",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-28T18:00:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "Non-Farm Payrolls",
+    "currency": "USD",
+    "expected": "250K",
+    "previous": "248K",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-17T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "Consumer Price Index",
+    "currency": "USD",
+    "expected": "0.3%",
+    "previous": "0.2%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-20T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "Core CPI",
+    "currency": "USD",
+    "expected": "0.3%",
+    "previous": "0.2%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-20T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "Producer Price Index",
+    "currency": "USD",
+    "expected": "0.2%",
+    "previous": "0.1%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-22T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "Core PCE Price Index",
+    "currency": "USD",
+    "expected": "0.2%",
+    "previous": "0.1%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-23T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "GDP",
+    "currency": "USD",
+    "expected": "1.8%",
+    "previous": "1.6%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-24T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "Retail Sales",
+    "currency": "USD",
+    "expected": "0.4%",
+    "previous": "0.1%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-25T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "Unemployment Rate",
+    "currency": "USD",
+    "expected": "4.2%",
+    "previous": "4.1%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-19T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "Initial Jobless Claims",
+    "currency": "USD",
+    "expected": "220K",
+    "previous": "221K",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-18T12:30:00Z",
+    "country": "United States",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "ECB Interest Rate Decision",
+    "currency": "EUR",
+    "expected": "3.50%",
+    "previous": "3.50%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-21T12:15:00Z",
+    "country": "Eurozone",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "BoE Interest Rate Decision",
+    "currency": "GBP",
+    "expected": "4.50%",
+    "previous": "4.50%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-22T12:00:00Z",
+    "country": "United Kingdom",
+    "source": "https://www.alphavantage.co/"
+  },
+  {
+    "title": "BoJ Interest Rate Decision",
+    "currency": "JPY",
+    "expected": "0.25%",
+    "previous": "0.25%",
+    "actual": "",
+    "impact": "High",
+    "datetime": "2026-07-23T03:00:00Z",
+    "country": "Japan",
+    "source": "https://www.alphavantage.co/"
+  }
+]
